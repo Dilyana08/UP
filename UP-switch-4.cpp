@@ -18,7 +18,7 @@ int main ()
   ((a>0) && (a<5)) ? (cout << "a=" << a << endl) : (cout << "Wrong value of a" << endl);
 
   switch (a)
-  {
+  { 
     case 1:
         cout << "y= " << x-5 << endl;
         break;
